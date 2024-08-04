@@ -5,5 +5,5 @@ An end-to-end data warehousing pipeline and BI dashboard for analyzing cancelled
 - `Database/`: Contains MySQL scripts for creating the OLTP and OLAP databases.
 - `Template/`: Contains the Excel template used for DWH design.
 - `Dashboards/`: Contains Power BI dashboard files.
-- `Doc/`: Contains documentation and the word file explaining the business process.
+- `Project Report/`: Contains documentation and the word file explaining the business process.
 - `Video/`: Contains a video demo.
